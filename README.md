@@ -1,4 +1,4 @@
-#Group members:
+Group members:
 1. Sophie Sikuku
 2. Anthony Gachini
 3. Rapahael Muthenya
