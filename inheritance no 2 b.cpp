@@ -59,7 +59,7 @@ class Student : public Person {
 };
 
 int main() {
-    Student my_student(20, "John", "Doe", "University of XYZ", 2, "12345");
+    Student my_student(20, "Jake", "Mutuma", "University of ABC", 2, "12345");
 
     my_student.getValues();  // Output values of student
 
