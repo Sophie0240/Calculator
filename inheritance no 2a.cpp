@@ -34,13 +34,13 @@ class Person {
 
 int main() {
     // Create an instance of Person
-    Person my_person(30, "John", "Doe");
+    Person my_person(28, "Jake", "Mutuma");
 
     // Get values of data members
     my_person.getValues();
 
     // Set values of data members
-    my_person.setValues(35, "Jane", "Smith");
+    my_person.setValues(21, "Lisa", "Wamaitha");
 
     // Get new values of data members
     my_person.getValues();
